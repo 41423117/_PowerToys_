@@ -1,4 +1,4 @@
-
+<p align="center">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./doc/images/readme/pt-hero.light.png" />
       <img src="./doc/images/readme/pt-hero.dark.png" />
@@ -58,8 +58,8 @@ Go to the [PowerToys GitHub releases][github-release-link], click Assets to reve
 [ptMachineX64]: https://github.com/microsoft/PowerToys/releases/download/v0.96.1/PowerToysSetup-0.96.1-x64.exe 
 [ptMachineArm64]: https://github.com/microsoft/PowerToys/releases/download/v0.96.1/PowerToysSetup-0.96.1-arm64.exe
  
-|  Description   | Filename |
-|----------------|----------|
+|  Description  | Filename |
+|---------------|----------|
 | Per user - x64       | [PowerToysUserSetup-0.96.1-x64.exe][ptUserX64] |
 | Per user - ARM64     | [PowerToysUserSetup-0.96.1-arm64.exe][ptUserArm64] |
 | Machine wide - x64   | [PowerToysSetup-0.96.1-x64.exe][ptMachineX64] |
